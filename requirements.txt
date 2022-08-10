@@ -1,7 +1,6 @@
 jupyterlab
 nbclient
 pandas
-selenium.common.exceptions
 selenium
 time
 re
